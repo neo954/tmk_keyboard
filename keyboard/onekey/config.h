@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x16c0
 #define PRODUCT_ID      0x27db
-#define DEVICE_VER      0x0101
+#define DEVICE_VER      0x0102
 #define MANUFACTURER    Mortal Photography
 #define PRODUCT         Panic Button
 #define DESCRIPTION     TMK. keyboard firmware for Panic Button
